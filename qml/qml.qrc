@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qmlMainWin.qml</file>
+        <file>SysBtn.qml</file>
+        <file>SysBtnGroup.qml</file>
+        <file>LabelBtn.qml</file>
+        <file>MainWidget.qml</file>
+        <file>ToolBtn.qml</file>
+        <file>MyButton.qml</file>
+        <file>MyTextBox.qml</file>
+        <file>ModuleList.qml</file>
+        <file>TitleBar.qml</file>
+        <file>AllMainWidgets.qml</file>
+        <file>CourseInfo.qml</file>
+        <file>StatusBar.qml</file>
+        <file>StudentInfo.qml</file>
+        <file>DefaultInfo.qml</file>
+        <file>MyTableViewStyle.qml</file>
+        <file>AddStudentDialog.qml</file>
+        <file>SeekDialog.qml</file>
+        <file>AddCourseDialog.qml</file>
+        <file>ServeInfo.qml</file>
+        <file>AddServeDialog.qml</file>
+        <file>PrintPage.qml</file>
+        <file>CertificateTemplate.qml</file>
+        <file>ChoisePrinter.qml</file>
+    </qresource>
+</RCC>

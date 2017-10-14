@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>close_hover.png</file>
+        <file>close_normal.png</file>
+        <file>close_pressed.png</file>
+        <file>feedback_hover.png</file>
+        <file>feedback_normal.png</file>
+        <file>feedback_pressed.png</file>
+        <file>menu_hover.png</file>
+        <file>menu_normal.png</file>
+        <file>menu_pressed.png</file>
+        <file>min_hover.png</file>
+        <file>min_normal.png</file>
+        <file>min_pressed.png</file>
+        <file>skin_hover.png</file>
+        <file>skin_normal.png</file>
+        <file>skin_pressed.png</file>
+        <file>manager.ico</file>
+        <file>tem/1.png</file>
+        <file>tem/2.png</file>
+        <file>tem/3.png</file>
+        <file>tem/4.png</file>
+        <file>tem/5.png</file>
+        <file>tem/6.png</file>
+        <file>tem/7.png</file>
+        <file>tem/8.png</file>
+        <file>tem/9.png</file>
+        <file>tem/10.png</file>
+        <file>tem/11.png</file>
+        <file>tem/12.png</file>
+        <file>tem/13.png</file>
+    </qresource>
+</RCC>
