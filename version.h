@@ -9,7 +9,7 @@
 #define PRODUCT_VERSION_STR    "3.0.1.000"
 #define COMPANY_NAME           "5555555"
 #define INTERNAL_NAME          "5555555"
-#define FILE_DESCRIPTION       "5555555"  // 文件说明
+#define FILE_DESCRIPTION       "QQ: 624080979"  // 文件说明
 #define LEGAL_COPYRIGHT        "5555555" // 版权
 #define ORIGINAL_FILE_NAME     "5555555"    // 原始文件名
 #define PRODUCT_NAME           "5555555"        // 产品名称
